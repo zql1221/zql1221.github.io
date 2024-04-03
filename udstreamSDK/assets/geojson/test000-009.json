@@ -1,0 +1,397 @@
+{
+  "type": "FeatureCollection",
+  "id": "c7e01819-587c-4db2-9762-b02c03599123",
+  "vault": {
+    "type": "Folder"
+  },
+  "name": "湖南项目",
+  "features": [
+    {
+      "type": "FeatureCollection",
+      "id": "80ad07a9-8ed2-47ef-91a3-a056241970fb",
+      "vault": {
+        "type": "Folder"
+      },
+      "name": "顶点",
+      "features": [
+        {
+          "type": "Feature",
+          "id": "7b880348-41dd-4712-9f89-949b77716cb2",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "000#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.771655,
+              26.513180,
+              386.719000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "1c39c193-4e17-4274-b632-a2a7c85fb269",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "001#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.773282,
+              26.512044,
+              376.402000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "fb4756c2-7bf9-44ec-872f-72121e093103",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "002#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.775498,
+              26.510487,
+              330.152000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "8f97288e-0b52-4bf3-b973-b3ead9cc4446",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "003#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.776090,
+              26.509653,
+              331.721000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "788b8430-2bbd-494c-b534-5329468a4dc3",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "004#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.777211,
+              26.508075,
+              314.930000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "60888d74-6dd2-4612-b2bf-a9f8b76bdd60",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "005#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.779255,
+              26.508395,
+              315.121000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "61465fd9-7e56-4885-aada-966d3629a688",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "006#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.782918,
+              26.507162,
+              308.732000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "95aad9dd-abfc-4d4a-9131-90b80e5a4db0",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "007#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.783921,
+              26.505461,
+              290.069000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "12184d6c-f25a-41d2-bb61-49b521173574",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "008#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.783044,
+              26.503904,
+              279.535000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "a005b882-0f49-4fa7-8793-62b53ccd6130",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "009#",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.782598,
+              26.503863,
+              281.384000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        }
+      ],
+      "attributes": null
+    },
+    {
+      "type": "FeatureCollection",
+      "id": "1aedcc7a-c5f2-4276-b5ef-2cf5443fe033",
+      "vault": {
+        "type": "Folder"
+      },
+      "name": "跨越中心点",
+      "features": [
+        {
+          "type": "Feature",
+          "id": "1b43714b-c253-4f1d-b20d-24c61486f023",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "000-001",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.772468,
+              26.512612,
+              347.556000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "66a90205-3e97-4995-be7f-d77f4f7689e2",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "001-002",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.774390,
+              26.511266,
+              330.567000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "52cb7132-50eb-47f2-b911-de399a62f4ff",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "002-003",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.775794,
+              26.510070,
+              307.386000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "204f7e9d-fe3c-4d37-9e14-4cd33e9f3143",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "003-004",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.776650,
+              26.508864,
+              300.685000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "87c90967-130c-4e03-b394-a4d3f2e255f4",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "004-005",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.778232,
+              26.508235,
+              292.596000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "efea20d8-5512-423a-b298-4fef35164d34",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "005-006",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.781086,
+              26.507776,
+              282.462000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "a6f25ea5-cf63-4a49-aef5-b7064fdf2f39",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "006-007",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.783419,
+              26.506311,
+              278.620000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "56b2db30-b9b2-45c9-8f06-00e4fda97a39",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "007-008",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.783482,
+              26.504682,
+              261.901000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        },
+        {
+          "type": "Feature",
+          "id": "0fd0b4ca-5374-4032-a6ed-d933519d2742",
+          "vault": {
+            "type": "POI"
+          },
+          "name": "008-009",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              113.782821,
+              26.503883,
+              263.848000
+            ]
+          },
+          "properties": {
+            "lineDualColour": true
+          }
+        }
+      ],
+      "attributes": null
+    }
+  ],
+  "attributes": {
+    "defaultcrs": 32649,
+    "projectcrs": 84
+  }
+}

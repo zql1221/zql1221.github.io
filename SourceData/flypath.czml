@@ -1,0 +1,42 @@
+[
+  {
+    "id": "document",
+    "version": "1.0",
+    "clock": {
+      "interval": "2022-09-02T10:50:32+08:00/2022-09-02T12:52:07+08:00",
+      "currentTime": "2022-09-02T10:50:32+08:00",
+      "step": "SYSTEM_CLOCK_MULTIPLIER",
+      "range":"CLAMPED",
+      "multiplier": 2.5
+    }
+  },
+  {
+    "id": "Car3",
+    "name": "科韵南路左到右",
+    "model": {
+      "gltf": "",
+      "scale": 0.01,
+      "minimumPixelSize": 0.01
+    },
+    "position": {
+      "epoch": "2022-09-02T10:50:32+08:00",
+      "cartographicDegrees":[0,113.3681573,23.09808375,9.259651572000001,62,113.3684468000,23.1066562600,9.17640064]},
+    "orientation": {
+      "velocityReference": "#position"
+    },
+    "viewFrom": {
+      "cartesian": [ 200, -250, 810 ]
+    },
+      "path": {
+      "material": {
+        "polylineOutline": {
+          "color": {
+            "rgba": [255, 0, 255, 255]
+          }
+        }
+      },
+      "width": 0.1,
+      "resolution": 1
+    }
+  }
+]

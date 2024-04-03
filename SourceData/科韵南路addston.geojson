@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "科韵南路addston",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "x84": 113.3681145, "y84": 23.09939438, "z": 0.20900933, "timeline": 23 }, "geometry": { "type": "Point", "coordinates": [ 113.368114536428905, 23.099394385534893 ] } },
+{ "type": "Feature", "properties": { "id": 1, "x84": 113.3681101, "y84": 23.0995343, "z": 0.36890826, "timeline": 26 }, "geometry": { "type": "Point", "coordinates": [ 113.368110127438271, 23.099534300303308 ] } },
+{ "type": "Feature", "properties": { "id": 2, "x84": 113.3681057, "y84": 23.09967015, "z": 0.46563433, "timeline": 29 }, "geometry": { "type": "Point", "coordinates": [ 113.368105718447637, 23.099670159431735 ] } },
+{ "type": "Feature", "properties": { "id": 3, "x84": 113.3681057, "y84": 23.09981615, "z": 0.71021981, "timeline": 32 }, "geometry": { "type": "Point", "coordinates": [ 113.368105718447637, 23.099816157147924 ] } },
+{ "type": "Feature", "properties": { "id": 4, "x84": 113.3681079, "y84": 23.1000027, "z": 1.1628718, "timeline": 40 }, "geometry": { "type": "Point", "coordinates": [ 113.368107922942954, 23.100002709554353 ] } },
+{ "type": "Feature", "properties": { "id": 5, "x84": 113.3681365, "y84": 23.10032765, "z": 3.1167455, "timeline": 42 }, "geometry": { "type": "Point", "coordinates": [ 113.368136581382032, 23.100327654839273 ] } },
+{ "type": "Feature", "properties": { "id": 6, "x84": 113.3681398, "y84": 23.1004559, "z": 4.8669821, "timeline": 44 }, "geometry": { "type": "Point", "coordinates": [ 113.368139888125, 23.10045590915815 ] } },
+{ "type": "Feature", "properties": { "id": 7, "x84": 113.3681442, "y84": 23.10064347, "z": 3.4360954, "timeline": 46 }, "geometry": { "type": "Point", "coordinates": [ 113.368144297115634, 23.100643474542338 ] } },
+{ "type": "Feature", "properties": { "id": 8, "x84": 113.3681476, "y84": 23.10078541, "z": 4.8454, "timeline": 48 }, "geometry": { "type": "Point", "coordinates": [ 113.368147603858588, 23.100785415740059 ] } },
+{ "type": "Feature", "properties": { "id": 9, "x84": 113.3681509, "y84": 23.10088477, "z": 4.4651, "timeline": 52 }, "geometry": { "type": "Point", "coordinates": [ 113.368150910601557, 23.10088477448922 ] } },
+{ "type": "Feature", "properties": { "id": 10, "x84": 113.3681553, "y84": 23.10102975, "z": 3.5744, "timeline": 55 }, "geometry": { "type": "Point", "coordinates": [ 113.368155319592191, 23.101029757021948 ] } }
+]
+}

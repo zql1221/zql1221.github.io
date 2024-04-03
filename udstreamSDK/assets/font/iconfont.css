@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3707563 */
+  src: url('iconfont.woff2?t=1670385927558') format('woff2'),
+       url('iconfont.woff?t=1670385927558') format('woff'),
+       url('iconfont.ttf?t=1670385927558') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-reduce:before {
+  content: "\e75e";
+}
+
+.icon-add:before {
+  content: "\e742";
+}
+
+.icon-tips:before {
+  content: "\e61e";
+}
+
+.icon-location:before {
+  content: "\e7f2";
+}
+
+.icon-hide1:before {
+  content: "\e61c";
+}
+
+.icon-view:before {
+  content: "\e61d";
+}
+
+.icon-close:before {
+  content: "\e61b";
+}
+
+.icon-pointMeasure:before {
+  content: "\e615";
+}
+
+.icon-heightMeasure:before {
+  content: "\e616";
+}
+
+.icon-hide:before {
+  content: "\e617";
+}
+
+.icon-lineMeasure:before {
+  content: "\e618";
+}
+
+.icon-show:before {
+  content: "\e619";
+}
+
+.icon-polygonMeasure:before {
+  content: "\e61a";
+}
+
+.icon-uav:before {
+  content: "\e614";
+}
+
+.icon-compass:before {
+  content: "\e744";
+}
+
+.icon-lineManage:before {
+  content: "\e613";
+}
+
+.icon-folderIn:before {
+  content: "\e611";
+}
+
+.icon-folderOut:before {
+  content: "\e612";
+}
+
+.icon-classification:before {
+  content: "\e601";
+}
+
+.icon-draw:before {
+  content: "\e602";
+}
+
+.icon-file:before {
+  content: "\e603";
+}
+
+.icon-line:before {
+  content: "\e604";
+}
+
+.icon-lean:before {
+  content: "\e606";
+}
+
+.icon-measure:before {
+  content: "\e607";
+}
+
+.icon-layer:before {
+  content: "\e608";
+}
+
+.icon-reset:before {
+  content: "\e609";
+}
+
+.icon-settings:before {
+  content: "\e60a";
+}
+
+.icon-tool:before {
+  content: "\e60b";
+}
+
+.icon-simulation:before {
+  content: "\e60c";
+}
+
+.icon-user:before {
+  content: "\e60d";
+}
+
+.icon-zoomOut:before {
+  content: "\e60e";
+}
+
+.icon-zoomIn:before {
+  content: "\e60f";
+}
+
+.icon-tower:before {
+  content: "\e610";
+}
+

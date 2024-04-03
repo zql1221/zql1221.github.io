@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "科韵南路ston",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "x84": 113.3681573, "y84": 23.09808375, "z": 1.397051572 }, "geometry": { "type": "Point", "coordinates": [ 113.368157305519958, 23.098083756788771 ] } },
+{ "type": "Feature", "properties": { "id": 1, "x84": 113.3681524, "y84": 23.09866661, "z": 0.285093545 }, "geometry": { "type": "Point", "coordinates": [ 113.368152448814342, 23.09866661538851 ] } },
+{ "type": "Feature", "properties": { "id": 2, "x84": 113.3681166, "y84": 23.09877111, "z": 0.157985255 }, "geometry": { "type": "Point", "coordinates": [ 113.368116642514153, 23.098771116219687 ] } },
+{ "type": "Feature", "properties": { "id": 4, "x84": 113.3681171, "y84": 23.10017043, "z": 1.34208858 }, "geometry": { "type": "Point", "coordinates": [ 113.368117166276548, 23.100170438460996 ] } },
+{ "type": "Feature", "properties": { "id": 5, "x84": 113.3681369, "y84": 23.10024506, "z": 1.232551574 }, "geometry": { "type": "Point", "coordinates": [ 113.368136974017105, 23.100245068571084 ] } },
+{ "type": "Feature", "properties": { "id": 6, "x84": 113.3681632, "y84": 23.10128392, "z": -0.33884179 }, "geometry": { "type": "Point", "coordinates": [ 113.36816325736514, 23.101283929412745 ] } },
+{ "type": "Feature", "properties": { "id": 7, "x84": 113.3681512, "y84": 23.10139552, "z": -0.63584148 }, "geometry": { "type": "Point", "coordinates": [ 113.36815125844538, 23.101395523261345 ] } },
+{ "type": "Feature", "properties": { "id": 8, "x84": 113.3682063, "y84": 23.10241685, "z": -0.08518297 }, "geometry": { "type": "Point", "coordinates": [ 113.368206301109055, 23.102416856689239 ] } },
+{ "type": "Feature", "properties": { "id": 9, "x84": 113.36824, "y84": 23.1026728, "z": -0.10097785 }, "geometry": { "type": "Point", "coordinates": [ 113.368240012359792, 23.102672801979665 ] } },
+{ "type": "Feature", "properties": { "id": 10, "x84": 113.3682806, "y84": 23.10278238, "z": -0.0961854 }, "geometry": { "type": "Point", "coordinates": [ 113.368280675365611, 23.102782380050385 ] } },
+{ "type": "Feature", "properties": { "id": 11, "x84": 113.3683617, "y84": 23.10427126, "z": -0.08670341 }, "geometry": { "type": "Point", "coordinates": [ 113.368361715688721, 23.104271266510857 ] } },
+{ "type": "Feature", "properties": { "id": 12, "x84": 113.3683314, "y84": 23.10434431, "z": -0.09438059 }, "geometry": { "type": "Point", "coordinates": [ 113.368331432700785, 23.104344317698498 ] } },
+{ "type": "Feature", "properties": { "id": 13, "x84": 113.3683333, "y84": 23.10474793, "z": -0.1740933 }, "geometry": { "type": "Point", "coordinates": [ 113.368333337291261, 23.104747937932608 ] } },
+{ "type": "Feature", "properties": { "id": 14, "x84": 113.3684552, "y84": 23.10685361, "z": -0.68619936 }, "geometry": { "type": "Point", "coordinates": [ 113.368455231079281, 23.106853610627255 ] } }
+]
+}

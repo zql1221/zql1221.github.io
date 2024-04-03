@@ -1,0 +1,63 @@
+[
+  {
+    "id": "document",
+    "version": "1.0",
+    "clock": {
+      "interval": "2022-09-02T10:50:30+08:00/2022-09-02T10:50:50+08:00",
+      "currentTime": "2022-09-02T10:50:30+08:00",
+      "step": "SYSTEM_CLOCK_MULTIPLIER",
+      "range":"LOOP_STOP",
+      "multiplier": 1.0
+    }
+  },
+  {
+    "id": "Person",
+    "name": "",
+    "model": {
+      "gltf": "/SourceModel/walk.glb",
+      "scale": 0.01,
+      "minimumPixelSize": 0.1
+    },
+    "scaleByDistance":[1.5e2,2.0,1.5e7,0.5],
+    "position": {
+      "epoch": "2022-09-02T10:50:30+08:00",
+      "cartographicDegrees":[0,113.4503723713,23.1781725979,50.1,9,113.4503110948,23.1781239431,50.1,18,113.4504510536,23.1779753323,50.1]},
+    "orientation": {
+      "velocityReference": "#position"
+    }
+  },
+  {
+    "id": "PersonLabel",
+    "name": "",
+    "label": {
+      "show": true,
+      "text": "Person",
+      "pixelOffset": {
+        "cartesian2": [0, -60]
+      }
+    },
+    "scaleByDistance":[1.5e2,2.0,1.5e7,0.5],
+    "position": {
+      "epoch": "2022-09-02T10:50:30+08:00",
+      "cartographicDegrees":[0,113.4503723713,23.1781725979,50.1,9,113.4503110948,23.1781239431,50.1,18,113.4504510536,23.1779753323,50.1]},
+    "orientation": {
+      "velocityReference": "#position"
+    }
+  },
+  {
+    "id": "Person1",
+    "name": "",
+    "model": {
+      "gltf": "/SourceModel/Cesium_Man.glb",
+      "scale": 0.8,
+      "minimumPixelSize": 1.2
+    },
+    "scaleByDistance":[1.5e2,2.0,1.5e7,0.5],
+    "position": {
+      "epoch": "2022-09-02T10:50:30+08:00",
+      "cartographicDegrees":[0,113.4504621000,23.1780458700,50.1,12,113.4503623000,23.1781505000,50.1]},
+    "orientation": {
+      "velocityReference": "#position"
+    }
+  }
+]
